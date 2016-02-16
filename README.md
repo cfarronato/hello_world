@@ -1,2 +1,3 @@
 # hello_world
-start out
+start
+because I want to learn GitHub
